@@ -15,8 +15,8 @@ The OSI model, an abbreviation for Open Systems Interconnection, comprises itsel
 
 ### The 7 Layers of the OSI Model
 1. [Physical](physical.md)
-2. [Data Link](datalink.mc)
-3. [Network](network.mc)
+2. [Data Link](datalink.md)
+3. [Network](network.md)
 4. [Transport](transport.md)
 5. [Session](session.md)
 6. [Presentation](presentation.md)
