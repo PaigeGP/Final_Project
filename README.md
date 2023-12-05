@@ -26,4 +26,5 @@ The OSI model, an abbreviation for Open Systems Interconnection, comprises itsel
 ---
 > Source Links
 > [OSI Model Explained | Real World Example](https://www.youtube.com/watch?v=LANW3m7UgWs)
+> 
 > [OSI Model Deep Dive](https://www.youtube.com/watch?v=oVVlMqsLdro&t=2s)
