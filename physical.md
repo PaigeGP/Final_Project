@@ -7,6 +7,8 @@ The lowest layer in the OSI model deals with the physical connections between de
 > This image is from [lifewire.com](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
  <br>
  <br>
-
+---
 ### Back to Main Page
 [Main Page](README.md)
+### Layer 2 - Data Link
+[Data Link](datalink.md)
