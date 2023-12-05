@@ -10,7 +10,7 @@ In this tutorial, I will give a simple and straightforward introduction to the O
  <br>
  <br>
 
-## Before I go into detail about the seven layers of the OSI model, what is the OSI model?
+## But FIRST.. What is the OSI Model?
 
 ### The 7 Layers of the OSI Model
 1. [Phyical]()
