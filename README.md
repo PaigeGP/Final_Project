@@ -1,3 +1,2 @@
-# OSI Model - An Introduction
-### By: Paige Pelster
+# OSI Model - An Introduction ### By: Paige Pelster
 ---
