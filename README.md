@@ -13,7 +13,7 @@ In this tutorial, I will give a simple and straightforward introduction to the O
 ## But FIRST... What is the OSI Model?
 The OSI model, an abbreviation for Open Systems Interconnection, comprises itself of a theoretical stack consisting of seven layers. These layers describe the functions within networks, assisting comprehension of network operations. It was initially created to standardize device communications. It is also crucial to note that while it's not as commonly utilized as the TCP model, understanding its concepts greatly enhances your understanding of networking principles.
 
-### The 7 Layers of the OSI Model
+# The 7 Layers of the OSI Model
 1. [Physical](physical.md)
 2. [Data Link](datalink.md)
 3. [Network](network.md)
