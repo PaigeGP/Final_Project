@@ -21,11 +21,11 @@ The OSI model, an abbreviation for Open Systems Interconnection, comprises itsel
 5. [Session](session.md)
 6. [Presentation](presentation.md)
 7. [Application](application.md)
-
+---
  <br>
  <br>
  
----
+
 > Source Links (images and research)
 > 
 > [OSI Model Explained | Real World Example](https://www.youtube.com/watch?v=LANW3m7UgWs)
