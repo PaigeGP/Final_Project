@@ -1,4 +1,4 @@
-# Layer 5 - The Session Layer
+# Layer 6 - The Presentation Layer
 
 Filler
 
