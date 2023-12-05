@@ -5,7 +5,7 @@ In this tutorial, I will give a simple and straightforward introduction to the O
 * Through my current job, I've gained hands-on experience in comprehending the OSI model more thoroughly. My Six Flags position (IS Support Technician) involves tasks like cable replacements, network patching, as well as network testing and troubleshooting.
 
 
-
+<img src= "https://images.ctfassets.net/wivd9zt8fi3t/p4ffps3SRzKrYoxFqaG59/20792ce53626acc756b5b53cc00633f8/data_center_osi_model.jpg" alt="readmeimg" width="600" />
 
 
 ## But FIRST... What is the OSI Model?
