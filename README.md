@@ -8,6 +8,7 @@ In this tutorial, I will give a simple and straightforward introduction to the O
 )
 > This image is from [fortinet.com](https://www.fortinet.com/resources/cyberglossary/osi-model)
 <br>
+<br>
 
 ## The 7 Layers of the OSI Model
 
