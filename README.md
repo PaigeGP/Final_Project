@@ -10,7 +10,9 @@ In this tutorial, I will give a simple and straightforward introduction to the O
  <br>
  <br>
 
-## The 7 Layers of the OSI Model
+## Before I go into detail about the seven layers of the OSI model, what is the OSI model?
+
+### The 7 Layers of the OSI Model
 1. [Phyical]()
 2. [Data Link]()
 3. [Network]()
