@@ -3,7 +3,7 @@
 Filler
 
 
-<img src= "https://www.lifewire.com/thmb/HKAzCXrgywQyF6xWNCjL5df3yGU=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/layers-of-the-osi-model-illustrated-818017-final-5-ct-373fc5a9edc74359819021555f37467d.png" alt="Layer3" width="600" />
+<img src= "https://www.lifewire.com/thmb/oMydCQKmU5l1po6t_TDWSfTY2Q4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/layers-of-the-osi-model-illustrated-818017-finalv1-6-ct-f21bdae22e54415b881d77babe8ca51d.png" alt="Layer3" width="600" />
 
 > This image is from [lifewire.com](https://www.lifewire.com/layers-of-the-osi-model-illustrated-818017)
  <br>
@@ -14,5 +14,5 @@ Filler
 [Main Page](README.md)
 ### Layer 4 - Transport
 [Transport](transport.md)
-### Layer 6 - Session
+### Layer 6 - Presenation
 [Presentation](presentation.md)
