@@ -20,5 +20,5 @@ The OSI model, an abbreviation for Open Systems Interconnection, comprises itsel
 4. [Transport](Transport.md)
 5. [Session](Session.md)
 6. [Presentation](Presentation.md)
-7. [Application](Application.md)
+7. [Application](Application)
 
