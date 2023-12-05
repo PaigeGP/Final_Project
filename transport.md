@@ -13,6 +13,6 @@ Filler
 ### Back to Main Page
 [Main Page](README.md)
 ### Layer 3 - Network
-[Physical](network.md)
+[Network](network.md)
 ### Layer 5 - Session
-[Network](session.md)
+[Session](session.md)
