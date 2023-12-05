@@ -1,6 +1,6 @@
 # Layer 5 - The Session Layer
 
-The Session Layer maintains the connection between two communicating devices, defining the duration of their interaction known as a session. It ensures the session remains active to facilitate the transmission of all essential data before closing to conserve resources. Also, it establishes checkpoints to allow resumption from specific points in case of interruptions during data transfer, preventing the need to restart the entire process.
+The Session Layer maintains the connection between two communicating devices, defining the duration of their interaction known as a session. It ensures the session remains active to facilitate the transmission of all essential data before closing to conserve resources. Also, it establishes checkpoints to allow data transfer to resume from specific points in case of interruptions, preventing the need to restart the entire process.
 
 
 
